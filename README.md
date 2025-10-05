@@ -1,6 +1,6 @@
 # Info
 
-A small codebase to test and get into using discord API.
+A small codebase to test and get into using Discord API.
 
 ## Usage
 
