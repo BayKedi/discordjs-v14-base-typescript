@@ -1,19 +1,28 @@
 {
   "name": "discordjs-v14-base-typescript",
   "version": "1.0.0",
-  "description": "",
+  "description": "A codebase to let you start using discord.js v14 - Written in TypeScript",
   "main": "src/index.ts",
   "type": "module",
   "scripts": {
-    "start": "npx tsx ."
+    "start": "tsx ."
   },
-  "keywords": ["discordjs"],
-  "author": "",
+  "keywords": [
+    "discordjs",
+    "discord",
+    "typescript",
+    "ts",
+    "tsx",
+    "discord.js",
+    "discord-bot"
+  ],
+  "author": "Bay Kedi",
   "license": "MIT",
   "dependencies": {
     "discord.js": "^14.22.1"
   },
   "devDependencies": {
+    "tsx": "^4.20.6",
     "typescript": "^5.9.3"
   }
 }
